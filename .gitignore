@@ -1,0 +1,6 @@
+/data/
+events/*
+!events/.gitkeep
+resultats/*
+!resultats/.gitkeep
+notebooks/.ipynb_checkpoints/
