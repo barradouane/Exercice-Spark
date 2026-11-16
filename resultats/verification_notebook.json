@@ -1,0 +1,21 @@
+{
+  "verifications": {
+    "clients_uniques": true,
+    "clients_complets": true,
+    "commandes_conservees": true,
+    "ca_conserve": true,
+    "evenements_tous_rattaches": true,
+    "evenements_sans_double_rattachement": true,
+    "communes_coherentes": true,
+    "taux_valides": true,
+    "parts_valides": true,
+    "tous_clients_segmentes": true,
+    "categories_completes": true,
+    "signatures_carte_conservees": true
+  },
+  "clients": 8000,
+  "commandes": 271617,
+  "ca": 56321837.95,
+  "evenements_livree_echec": 279902,
+  "clients_sans_position": 0
+}
